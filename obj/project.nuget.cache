@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QofbJEuhwSBVM/lGzaFZqWPBtXT75pFw/wQJxB308Py7sjdWmWrRTN/b0HZdL8T0yeNaZ8Obl+2IMle7P1joYA==",
+  "success": true,
+  "projectFilePath": "F:\\AVANADE_TEST\\LocalizationExample\\LocalizationExample\\LocalizationExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viviane\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Viviane\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Viviane\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Viviane\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Viviane\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Viviane\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
